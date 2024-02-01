@@ -15,8 +15,7 @@ I'm a Software Engineering Student with a profound interest in software developm
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaakko-lipponen) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JaakkoLipp&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JaakkoLipp&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=JaakkoLipp&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>![](https://github-readme-streak-stats.herokuapp.com/?user=JaakkoLipp&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JaakkoLipp&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
