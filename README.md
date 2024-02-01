@@ -9,10 +9,9 @@ I'm a Software Engineering Student with a profound interest in software developm
 ## Skills
 - Languages: TypeScript, Java, C, Rust, SQL, Python
 - Technologies: AI, Cloud, DevOps, Docker, Linux
-- Strong foundation in web- and app development.<br>
+- Strong foundation in web- and app development.
 
 ## 📈 GitHub Stats<br>![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaakkoLipp&show_icons=true)<br><br><!-- Feel free to add or remove sections that you feel may be relevant to your profile --><br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaakko-lipponen) 
@@ -29,5 +28,3 @@ I'm a Software Engineering Student with a profound interest in software developm
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JaakkoLipp&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
