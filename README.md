@@ -11,7 +11,8 @@ I'm a Software Engineering Student with a profound interest in software developm
 - Technologies: AI, Cloud, DevOps, Docker, Linux
 - Strong foundation in web- and app development.
 
-## 📈 GitHub Stats<br>![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaakkoLipp&show_icons=true)<br>!
+## 📈 GitHub Stats
+<br>![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaakkoLipp&show_icons=true)<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaakko-lipponen) 
