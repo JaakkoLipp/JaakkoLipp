@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 🚀 About Me<br>
 I'm a Software Engineering Student with a profound interest in software development, particularly in the realms of AI,
 
