@@ -11,6 +11,7 @@ I'm a Software Engineering Student with a profound interest in software developm
 - Technologies: AI, Cloud, DevOps, Docker, Linux
 - Strong foundation in web- and app development.
 
+<br>
 
 ## 💻 Tech Stack:
 ### Frontend Development:
