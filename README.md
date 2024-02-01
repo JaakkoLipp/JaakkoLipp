@@ -6,7 +6,7 @@ I'm a Software Engineering Student with a profound interest in software developm
 - 🌱 Currently diving deep into AI-driven development through my bachelor's thesis.
 - ✨ Passionate about leveraging generative AI in software engineering.
 
-## Skills
+## 🛠 Skills
 - Languages: TypeScript, Java, C, Rust, SQL, Python
 - Technologies: AI, Cloud, DevOps, Docker, Linux
 - Strong foundation in web- and app development.
