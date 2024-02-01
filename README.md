@@ -1,5 +1,5 @@
 ## 🚀 About Me<br>
-I'm a Software Engineering Student with a profound interest in software development, particularly in the realms of AI,
+I'm a Software Engineering Student with a profound interest in software development, particularly in the realms of modern technologies.
 
 - 🎓 Studying Computer Science & Business at LUT-University, blending technical prowess with business acumen.
 - 💼 Worked at Telia as a Technical Specialist, enhancing my expertise in telecommunications and IT.
