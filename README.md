@@ -1,5 +1,18 @@
 # 💫 About Me:
-## 🚀 About Me<br>I'm a Software Engineering Student with a profound interest in software development, particularly in the realms of AI,<br><br>* 🎓 Studying Computer Science & Business at LUT-University, blending technical prowess with business acumen..<br>* 💼 Worked at Telia as a Technical Specialist, enhancing my expertise in telecommunications and IT.<br>* 🌱 Currently diving deep into AI-driven development through my bachelor's thesis.<br>* ✨ Passionate about leveraging generative AI in software engineering.<br><br>## 🛠 Skills<br>* Languages: TypeScript, Java, C, Rust, SQL, Python<br>* Technologies: AI, Cloud, DevOps, Docker, Linux<br>* Strong foundation in web- and app development.<br><br>## 📫 How to Reach Me<br>* 🔗 Connect with me on [LinkedIn](https://www.LinkedIn.com/in/jaakko-lipponen)<br><br>## 📈 GitHub Stats<br>![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaakkoLipp&show_icons=true)<br><br><!-- Feel free to add or remove sections that you feel may be relevant to your profile --><br>
+## 🚀 About Me<br>
+I'm a Software Engineering Student with a profound interest in software development, particularly in the realms of AI,
+
+- 🎓 Studying Computer Science & Business at LUT-University, blending technical prowess with business acumen.
+- 💼 Worked at Telia as a Technical Specialist, enhancing my expertise in telecommunications and IT.
+- 🌱 Currently diving deep into AI-driven development through my bachelor's thesis.
+- ✨ Passionate about leveraging generative AI in software engineering.
+
+## Skills
+- Languages: TypeScript, Java, C, Rust, SQL, Python
+- Technologies: AI, Cloud, DevOps, Docker, Linux
+- Strong foundation in web- and app development.<br>
+
+## 📈 GitHub Stats<br>![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaakkoLipp&show_icons=true)<br><br><!-- Feel free to add or remove sections that you feel may be relevant to your profile --><br>
 
 
 ## 🌐 Socials:
