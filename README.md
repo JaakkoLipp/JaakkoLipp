@@ -1,16 +1,16 @@
 ## 🚀 About Me<br>
-I'm a Software Engineering Student with a profound interest in software development, particularly in the realms of modern technologies.
+Software Engineering Student specializing in back-end development with emerging technologies.
 
-- 🎓 Studying Computer Science & Business at LUT-University, blending technical prowess with business acumen.
-- 💼 Worked at Telia as a Technical Specialist, enhancing my expertise in telecommunications and IT.
+- 🎓 Studying Computer Science & Business at LUT-University.
+- 💼 Working at Telia as a Technical Specialist, enhancing my expertise in ICT.
 - 🌱 Currently diving deep into AI-driven development through my bachelor's thesis.
-- ✨ Passionate about leveraging generative AI in software engineering.
+- ✨ Passionate about leveraging ML and AI in software engineering.
 
 <br>
 
 ## 🛠 Skills
-- Languages: TypeScript, Java, C, Rust, SQL, Python
-- Technologies: AI, Cloud, DevOps, Docker, Linux
+- Languages: TypeScript, Rust, Python, SQL
+- Technologies: ML, Cloud, DevOps, Docker, Linux
 - Strong foundation in web- and app development.
 
 <br>
