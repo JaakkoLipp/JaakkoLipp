@@ -3,7 +3,7 @@ Software Engineering Student specializing in back-end development.
 
 - 🎓 Studying Computer Science & Business at LUT-University.
 - 💼 Working at Telia as a Technical Specialist, enhancing my expertise in ICT.
-- 🌱 Written a deep dive bachelor's thesis into AI-driven development viability.
+- 🌱 Written a deep-dive bachelor's thesis into AI-driven development viability.
 - ✨ Interested in leveraging intelligent automation and DevOps in software engineering.
 
 <br>
