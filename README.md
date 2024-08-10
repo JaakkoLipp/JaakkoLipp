@@ -11,7 +11,7 @@ Software Engineering Student specializing in back-end development.
 ## 🛠 Skills
 - Languages: TypeScript, Rust, Java, SQL
 - Technologies: ML, Cloud, DevOps, Docker, Linux
-- Strong foundation in web- and app development.
+- Strong foundation in backend development.
 
 <br>
 
