@@ -1,5 +1,5 @@
 ## 🚀 About Me<br>
-Software Engineering Student specializing in back-end development.
+Software Engineering masters student specializing in web development.
 
 - 🎓 Studying Computer Science & Business at LUT-University.
 - 💼 Worked at Telia as a Technical Specialist, enhancing my expertise in ICT.
