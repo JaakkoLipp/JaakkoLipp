@@ -9,7 +9,7 @@ Software Engineering masters student specializing in web development.
 <br>
 
 ## 🛠 Skills
-- Languages: TypeScript, Rust, Java, SQL
+- Languages: Java, JS, python, SQL
 - Tools: Cloud, DevOps, Docker, Linux
 - Strong foundation in backend development.
 
