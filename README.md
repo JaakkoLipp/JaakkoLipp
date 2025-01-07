@@ -1,21 +1,16 @@
 ## 🚀 About Me<br>
 Software Engineering masters student specializing in modern software development.
-
 - 🎓 Studying software engineering at LUT-University, independently enhancing experience in machine learning and AI.
 - 💼 Worked at Telia as a Technical Specialist, enhancing my expertise in ICT.
 - 🌱 Written a deep-dive bachelor's thesis into AI-driven development viability.
 - ✨ Interested in leveraging intelligent automation in software engineering.
-
 <br>
-
 ## 🛠 Skills
 - Advanced datastructures and algorithms, data-intensive systems design, AI-integration and ML automation, distributed system architectures,
 embedded systems, web development, devops+CI/CD, containers with docker, project management, system design and software maintenance,...
 - Languages: Java, JS, Python, SQL, Rust, C
 - Strong foundation in web development.
-
 <br>
-
 ## 💻 Tech Stack:
 ### Frontend Development:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
