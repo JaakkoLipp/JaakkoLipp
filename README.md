@@ -1,4 +1,4 @@
 ## Hi there 👋
 
 
-Applied AI, DevOps, Cloud, and backend focused software engineer.
+Applied AI and backend focused software engineer.
