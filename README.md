@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-
-Applied AI and backend focused software engineer.
+Interested in Linux, DevOps, local LLMs and backend.
+Currently working on building reliable LLM development tooling at Telia finland.
