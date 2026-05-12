@@ -32,4 +32,4 @@ Document enough that the setup can be rebuilt later.
 
 ---
 
-> Building practical AI systems, self-hosted infrastructure, and software that is easier to reason about.
+> Learning to write quality software, building practical AI systems, and experimenting with self-hosted infrastructure.
