@@ -6,11 +6,8 @@ Currently exploring how to grow stronger with correct AI usage as a software eng
 
 #### Homelab
 
-Hardware:
 - HPE Proliant DL360 G10 Proxmox primary node
 - Two node office pc Proxmox cluster with RTX 3090 vm passthrough for local inference.
-
-Services:
 - personal coding projects and tool servers
 - AI: Runs the open-weight stack end to end: vLLM, Ollama, Open WebUI, SearXNG, Langfuse, n8n, and a growing collection of MCP servers. Currently running Gemma 4 at full 256K context.
 
@@ -23,12 +20,6 @@ Make the data flow visible.
 Add observability early.  
 Automate the boring parts.  
 Document enough that the setup can be rebuilt later.
-
-#### Connect
-
-- Portfolio: [jaalip.com](https://jaalip.com)
-- GitHub: [@jaakko-lipponen](https://github.com/jaakko-lipponen)
-- LinkedIn: [Jaakko Lipponen](https://www.linkedin.com/)
 
 ---
 
