@@ -9,6 +9,7 @@ Currently exploring how to grow stronger with correct AI usage as a software eng
 Hardware:
 - HPE Proliant DL360 G10 Proxmox primary node
 - Two node office pc Proxmox cluster with RTX 3090 vm passthrough for local inference.
+
 Services:
 - personal coding projects and tool servers
 - AI: Runs the open-weight stack end to end: vLLM, Ollama, Open WebUI, SearXNG, Langfuse, n8n, and a growing collection of MCP servers. Currently running Gemma 4 at full 256K context.
