@@ -2,7 +2,7 @@
 
 Software engineer and AI specialist based in Finland. I work on Full stack AI agent systems development, design, and governance, with a particular focus on enterprise infrastructure, data sovereignty, and the practical side of running open-weight LLMs in production.
 
-Currently exploring how to grow stronger with correct AI usage as a software engineer.
+Currently exploring how to grow with correct AI usage as a software engineer.
 
 #### Homelab
 
