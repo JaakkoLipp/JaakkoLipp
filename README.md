@@ -4,7 +4,7 @@ Software engineer and AI specialist based in Finland. I work on Full stack AI ag
 
 #### How I like to build
 
-I prefer simple systems that can grow.
+I prefer simple systems that can grow. 
 Start with something understandable.  
 Make the data flow visible.  
 Add observability early.  
